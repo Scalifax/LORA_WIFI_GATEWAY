@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/alberti/Documents/Code/ESP/Projete2k24/LORA_WIFI_GATEWAY--master_Station/build/CMakeFiles/bootloader
+/home/alberti/Documents/Code/ESP/Projete2k24/LORA_WIFI_GATEWAY--master_Station/build/CMakeFiles/bootloader.rule
+/home/alberti/Documents/Code/ESP/Projete2k24/LORA_WIFI_GATEWAY--master_Station/build/CMakeFiles/bootloader-complete.rule
+/home/alberti/Documents/Code/ESP/Projete2k24/LORA_WIFI_GATEWAY--master_Station/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/alberti/Documents/Code/ESP/Projete2k24/LORA_WIFI_GATEWAY--master_Station/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/alberti/Documents/Code/ESP/Projete2k24/LORA_WIFI_GATEWAY--master_Station/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/alberti/Documents/Code/ESP/Projete2k24/LORA_WIFI_GATEWAY--master_Station/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/alberti/Documents/Code/ESP/Projete2k24/LORA_WIFI_GATEWAY--master_Station/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/alberti/Documents/Code/ESP/Projete2k24/LORA_WIFI_GATEWAY--master_Station/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/alberti/Documents/Code/ESP/Projete2k24/LORA_WIFI_GATEWAY--master_Station/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
