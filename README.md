@@ -21,3 +21,7 @@ A arquitetura Nova Genesis oferece características únicas que permitem uma com
 - **LoRa**: Tecnologia de comunicação sem fio de longo alcance e baixa potência.
 - **WiFi**: Padrão de comunicação sem fio para redes locais.
 - **Nova Genesis**: Arquitetura de rede alternativa ao TCP/IP, projetada pelo prof. Alberti, também é chamada de "a internet do futuro".
+
+## Ao usuário
+
+Caso for utilizar o código, não se esqueça de alterar no arquivo main.c, o nome e senha da rede WiFi, caso contrário o código não funcionará.
