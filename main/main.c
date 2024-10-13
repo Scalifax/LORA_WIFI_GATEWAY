@@ -14,8 +14,8 @@ static const char *TAG = "+";
 static bool s_sta_is_connected = false;
 static bool wifi_is_connected = false;
 
-#define CONFIG_EXAMPLE_WIFI_SSID "GenesisStation"
-#define CONFIG_EXAMPLE_WIFI_PASSWORD "Hackathon!@_"
+#define CONFIG_EXAMPLE_WIFI_SSID "Your WiFi"
+#define CONFIG_EXAMPLE_WIFI_PASSWORD "password"
 
 #define CONFIG_EXAMPLE_MAX_STA_CONN 4
 
